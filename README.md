@@ -1,2 +1,0 @@
-# PointsForPrepSchool
-index.php
